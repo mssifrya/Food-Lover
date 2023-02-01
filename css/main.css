@@ -576,8 +576,15 @@ footer>.container {
         padding: 2rem;
         margin-top: 2rem;
     }
-    .section2>.container {
-        padding: 0 7rem;
+
+        .section2>.container {
+        padding: 0 4rem;
+    }
+    .meals {
+        padding: 0 5rem;
+    }
+    .Latest {
+        padding: 0 6rem;
     }
     .sect-3-img{
         margin-bottom: 3rem;
