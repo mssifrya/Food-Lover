@@ -11,8 +11,8 @@
     --color-green:#659e2d ;
     --color-black:#2c3722;
 }
-body {
-    height: 500vh;
+section {
+    overflow: hidden;
 }
 body::-webkit-scrollbar {
     width: 12px;           
